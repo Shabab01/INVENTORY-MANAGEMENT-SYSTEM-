@@ -1,5 +1,7 @@
 # Inventory Management System
 
+![WhatsApp Image 2024-11-02 at 20 08 09_5435a983](https://github.com/user-attachments/assets/607f880f-fd87-4698-9e21-feed7c4224b2)
+
 A comprehensive SQL-based inventory management system that organizes, manages, and analyzes inventory and sales data. The project includes structured tables for categories, products, and sales data, and provides valuable insights on sales performance across different product categories.
 
 ## Project Overview
